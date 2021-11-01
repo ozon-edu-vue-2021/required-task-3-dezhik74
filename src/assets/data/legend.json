@@ -2,25 +2,31 @@
   {
     "group_id": 0,
     "color": "blueviolet",
-    "text": "Подразделение 1",
+    "text": "Трудяги",
     "counter": 3
   },
   {
     "group_id": 1,
     "color": "blue",
-    "text": "Подразделение 2",
+    "text": "Босс",
     "counter": 6
   },
   {
     "group_id": 2,
     "color": "violet",
-    "text": "Подразделение 3",
+    "text": "Секретарши",
     "counter": 3
   },
   {
     "group_id": 3,
     "color": "deeppink",
-    "text": "Подразделение 4",
-    "counter": 2
+    "text": "Бухгалтерия",
+    "counter": 5
+  },
+  {
+    "group_id": 4,
+    "color": "green",
+    "text": "Неприкаянные",
+    "counter": 15
   }
 ]
